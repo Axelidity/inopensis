@@ -26,7 +26,7 @@
 #
 #***************************************************************************************
 ini_set('display_errors', 'Off');
-ini_set('max_execution_time', '3600'); //300 seconds = 5 minutes;
+ini_set('max_execution_time', '3600'); //300 seconds = 5 minutes
 error_reporting(0);
 
 $page_name = basename($_SERVER['PHP_SELF']);
